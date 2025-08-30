@@ -1,0 +1,15 @@
+import streamlit as st
+# Atividade 01:
+# Fazer seu primeiro web app com o streamlit, devendo realizar o deploy e postar o link
+# Este app-web deverá conter:
+# 1) Seu nome
+# 2) um tema que pretende tratar
+# 3) A divisão das seções do app, prevendo futura expansão para apresentar dados e gráficos.
+# 4) Bases de dados que imagina usar
+
+
+st.title("🚀 Etapa 1 do trabalho de criação de MVP")
+st.write ('**Distribuição dos recursos do PROGEFE nas escolas estaduais do ES, por modalidade de ensino em 2024.**')
+st.text ('')
+st.markdown ('📌 **Desenvolvedor:**')
+st.text ('Mirella Carla Mendes Christ')
