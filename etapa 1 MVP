@@ -11,5 +11,5 @@ import streamlit as st
 st.title("🚀 Etapa 1 do trabalho de criação de MVP")
 st.write ('**Distribuição dos recursos do PROGEFE nas escolas estaduais do ES, por modalidade de ensino em 2024.**')
 st.text ('')
-st.markdown ('📌 **Desenvolvedor:**')
+st.markdown ('📌 **Aluna:**')
 st.text ('Mirella Carla Mendes Christ')
